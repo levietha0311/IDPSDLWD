@@ -7,7 +7,7 @@ With the contributions of the authors:
 
 Ha V. Le - levietha@chinhphu.vn - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
 
-Cuong M. Vu - cuongvm17@gmail - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
+Cuong M. Vu - cuongvm17@gmail.com - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
 
 Hoang V. Vo - vohoangmocvy@gmail.com - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
 
