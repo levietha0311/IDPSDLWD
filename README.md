@@ -3,6 +3,8 @@ Perform hybrid approach that is combination of rule-based IDPS and Deep Neural N
 
 For the paper "Cybersecurity: Webshell Detection Using The Deep HTTP Traffic Analysis"!
 
+Our dataset is built by deploying a 2-component testbed system Webserver-Network and Attack-Network. We use several craws website tools to create the normally HTTP traffic as legal clients.  we also simulate Webshell attacks by using Kali Linux to upload and execute webshell for creating intrusion traffic. Suricata is used as a packet capturing, HTTP filtering tool and saves network traffic into pcap files. 
+
 With the contributions of the authors:
 
 Ha V. Le - levietha@chinhphu.vn - Department of Information Systems, VNU University of Engineering and Technology, Hanoi, Vietnam
